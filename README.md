@@ -13,21 +13,15 @@ In here you will find some of my personal projects, or projects done at JDC.
 - Front end Development with frameworks
 
 ## I Have Used 🌱
-- HTML, CSS.
-- JavaScript, Typescript
-- Python
-- Java
-- Graphql
-- PrismaORM
-- Mysql
-- C++
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,python,graphql,prisma,mysql,cpp&theme=dark" />
+  </a>
+</p>
 
 ## Tech To Learn 🧐
-- Docker
-- Kubernetes
-- AstroJS
-- TypeGraphQl
-- Linux
-- Bun
-- Flutter
-- C
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,astro,neovim,linux,dart,flutter,c&theme=dark" />
+  </a>
+</p>
