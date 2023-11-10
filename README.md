@@ -1,16 +1,33 @@
-### Hi there 👋
+# Hi, Santiago Cujaban Here 👋
 
-<!--
-**santiago-cujaban/santiago-cujaban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Systems Engineer student at JDC.<br/>
+In here you will find some of my personal projects, or projects done at JDC.
 
-Here are some ideas to get you started:
+## More About Me ⚡
+- **Languages**: Spanish and English.
+- **Interested in**: Learning more things (such as ), art and new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Practicing 🤔
+- Yet to find a good way to document my projects
+- Web Scrapping
+- Front end Development with frameworks
+
+## I Have Used 🌱
+- HTML, CSS.
+- JavaScript, Typescript
+- Python
+- Java
+- Graphql
+- PrismaORM
+- Mysql
+- C++
+
+## Tech To Learn 🧐
+- Docker
+- Kubernetes
+- AstroJS
+- TypeGraphQl
+- Linux
+- Bun
+- Flutter
+- C
