@@ -5,7 +5,7 @@ In here you will find some of my personal projects, or projects done at JDC.
 
 ## More About Me ⚡
 - **Languages**: Spanish and English.
-- **Interested in**: Learning more things (such as ), art and new technologies.
+- **Interested in**: Learning more things, art and new technologies.
 
 ## Practicing 🤔
 - Yet to find a good way to document my projects
